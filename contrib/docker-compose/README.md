@@ -109,3 +109,5 @@ Repository: [NibiruChain/go-heartmonitor](https://github.com/NibiruChain/go-hear
 - [Docker Compose file](https://docs.docker.com/compose/compose-file/03-compose-file/)
 - [Docker Compose Specification](https://github.com/compose-spec/compose-spec/blob/master/spec.md)
 - [IBC-Go Docs](https://ibc.cosmos.network)
+
+<!-- Auto-update: 2025-10-05T13:10:39.742999 -->
